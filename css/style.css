@@ -229,6 +229,19 @@ button {
   text-align: center;
 }
 @media (max-width: 699px) {
+ .contant{
+  padding-top: 100px;
+  padding-bottom: 30px;
+
+  }
+  .imgsa{
+    padding-top: 10px;
+  padding-bottom: 100px;
+
+  }
+  .home{
+    padding-bottom: 103px;
+  }
   .nav-1 {
     display: none;
   }
@@ -361,10 +374,7 @@ animation-range: entry 0% cover 40%;
   letter-spacing: 2px;
   font-size: 40px;
 }
-.hh1 {
-  align-items: center;
-  display: flex;
-}
+
 .pp {
   margin-top: 150px;
 }
@@ -379,6 +389,10 @@ animation-range: entry 0% cover 40%;
 }
 .pp5 {
   margin-top: 100px;
+}
+.pp6 {
+  margin-top: 100px;
+  font-size: 33px;
 }
 .pp2 {
   margin-top: 30px;
@@ -413,12 +427,16 @@ animation-range: entry 0% cover 40%;
   margin-top: 50px;
   letter-spacing: 3px;
 }
+.ppp{
+  font-size: 30px;
+  padding-top: 50px;
+}
 
-.n {
+/* .n {
   grid-row: 1 / 3;
   height: 526px;
   align-content: center;
-}
+} */
 
 /* .m{
     grid-column: 2 / 4;
